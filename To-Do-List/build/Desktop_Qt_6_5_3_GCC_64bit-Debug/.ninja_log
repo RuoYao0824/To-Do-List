@@ -1,0 +1,9 @@
+# ninja log v5
+0	190	1715935968228978711	To-Do-List_autogen/timestamp	2c9d79426ff91cab
+0	190	1715935968228978711	To-Do-List_autogen/mocs_compilation.cpp	2c9d79426ff91cab
+0	190	1715935968228978711	/home/superplum1218/To-Do-List/To-Do-List/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/To-Do-List_autogen/timestamp	2c9d79426ff91cab
+0	190	1715935968228978711	/home/superplum1218/To-Do-List/To-Do-List/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/To-Do-List_autogen/mocs_compilation.cpp	2c9d79426ff91cab
+190	1502	1715935969548977538	CMakeFiles/To-Do-List.dir/To-Do-List_autogen/mocs_compilation.cpp.o	49ae4fb2562756a9
+190	1517	1715935969568977519	CMakeFiles/To-Do-List.dir/main.cpp.o	32afad6d0ba237d3
+190	1523	1715935969568977519	CMakeFiles/To-Do-List.dir/superchickenlist.cpp.o	64a61f0a64d6bded
+1523	1845	1715935969888977236	To-Do-List	f81ca6a162d196de
